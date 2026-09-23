@@ -1,5 +1,5 @@
 import time
-from src.booking_engine import TicketEngine
+from booking_engine import TicketEngine
 from concurrent.futures import ThreadPoolExecutor
 
 def main():
